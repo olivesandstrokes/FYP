@@ -1,10 +1,8 @@
 # Correlation-Aware Heuristic Optimisation for Multi-Portfolio Asset Allocation
 
-Code for my NTU EEE Final Year Project (interim stage), supervised by Dr Lim Wei Quan.
+Code for my NTU EEE Final Year Project
 
-The project asks: when a firm cannot serve every client from one shared pool of assets,
-how much of the shortfall comes from the assets (their correlations) and how much from
-the allocation method?
+T
 
 ## Files
 
